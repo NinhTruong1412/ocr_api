@@ -1,0 +1,5 @@
+fastapi
+yolov5
+Unidecode
+google-cloud
+google-cloud-vision
